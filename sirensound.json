@@ -11,7 +11,8 @@
   "app_exists": {
     "id": "com.prank.sirenscarychat.headvideocall",
     "is_exists": true,
-    "is_show_more": false
+    "is_show_more": false,
+    "is_show_ads": false
   },
   "apps": [
     {
