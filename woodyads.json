@@ -9,9 +9,10 @@
     "onlyFB": false
   }, 
   "app_exists": {
-    "id": "com.prank.sirenscarychat",
+    "id": "com.callfromwoodyprank.callsimulation",
     "is_exists": true,
-    "is_show_more": false
+    "is_show_more": false,
+    "is_show_ads": false
   },
   "apps": [
     {
