@@ -1,11 +1,11 @@
 {
   "ads": {
     "id_app": "",
-    "banner_setting": "",
     "flury_id":"flury_id",
-    "inter_setting": "",
-    "banner_main": "",
-    "inter_main": "",
+    "banner_setting": "ca-app-pub-3399710561924220/5435551163",
+    "inter_setting": "ca-app-pub-3399710561924220/9795993221",
+    "banner_main": "ca-app-pub-3399710561924220/9921591086",
+    "inter_main": "ca-app-pub-3399710561924220/9921591086",
     "onlyAdmod": true,
     "onlyFB": false
   }, 
