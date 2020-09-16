@@ -13,9 +13,9 @@
     "id": "com.prank.sirenscarychat.headvideocall",
     "is_exists": true,
     "is_show_more": false,
-    "is_show_ads": false,
+    "is_show_ads": true,
     "isLoading":false,
-    "isShowAds":false
+    "isShowAds":true
   },
   "apps": [
     {
