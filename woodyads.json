@@ -2,10 +2,10 @@
   "ads": {
     "id_app": "",
     "flury_id":"flury_id",
-    "banner_setting": "",
-    "inter_setting": "",
-    "banner_main": "",
-    "inter_main": "",
+    "banner_setting": "ca-app-pub-3399710561924220/9345277527",
+    "inter_setting": "ca-app-pub-3399710561924220/5406032512",
+    "banner_main": "ca-app-pub-3399710561924220/2498482356",
+    "inter_main": "ca-app-pub-3399710561924220/7559237342",
     "onlyAdmod": true,
     "onlyFB": false
   }, 
@@ -13,9 +13,9 @@
     "id": "com.callfromwoodyprank.callsimulation",
     "is_exists": true,
     "is_show_more": false,
-    "is_show_ads": false,
+    "is_show_ads": true,
     "isLoading":false,
-    "isShowAds":false
+    "isShowAds":true
   },
  "apps": [
     {
