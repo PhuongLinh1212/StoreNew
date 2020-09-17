@@ -2,20 +2,20 @@
   "ads": {
     "id_app": "",
     "flury_id":"flury_id",
-    "banner_setting": "",
-    "inter_setting": "",
-    "banner_main": "",
-    "inter_main": "",
+    "banner_setting": "ca-app-pub-3399710561924220/8245633055",
+    "inter_setting": "ca-app-pub-3399710561924220/3101117589",
+    "banner_main": "ca-app-pub-3399710561924220/9474954246",
+    "inter_main": "ca-app-pub-3399710561924220/9367143037",
     "onlyAdmod": true,
     "onlyFB": false
   }, 
   "app_exists": {
-    "id": "com.prank.sirenscarychat.headvideocall",
+    "id": "com.chucky.callprank.fakecall.fakevideocall.killerdoll",
     "is_exists": true,
     "is_show_more": false,
-    "is_show_ads": false,
+    "is_show_ads": true,
     "isLoading":false,
-    "isShowAds":false
+    "isShowAds":true
   },
   "apps": [
     {
