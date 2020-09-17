@@ -2,10 +2,10 @@
   "ads": {
     "id_app": "",
     "flury_id":"flury_id",
-    "banner_setting": "",
-    "inter_setting": "",
-    "banner_main": "",
-    "inter_main": "",
+    "banner_setting": "ca-app-pub-3399710561924220/9462689413",
+    "inter_setting": "ca-app-pub-3399710561924220/9271117727",
+    "banner_main": "ca-app-pub-3399710561924220/9969778261",
+    "inter_main": "ca-app-pub-3399710561924220/7766464363",
     "onlyAdmod": true,
     "onlyFB": false
   }, 
@@ -13,9 +13,9 @@
     "id": "com.fackcall.coffindancememeprank",
     "is_exists": true,
     "is_show_more": false,
-    "is_show_ads": false,
+    "is_show_ads": true,
     "isLoading":false,
-    "isShowAds":false
+    "isShowAds":true
   },
   "apps": [
     {
