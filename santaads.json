@@ -1,6 +1,6 @@
 {
   "ads": {
-    "id_app": "",
+    "id_app": "5f696e4c49ca095ee7ce7dd4",
     "flury_id":"flury_id",
     "banner_setting": "ca-app-pub-3399710561924220/5435551163",
     "inter_setting": "ca-app-pub-3399710561924220/9795993221",
@@ -10,7 +10,7 @@
     "onlyFB": false
   }, 
   "app_exists": {
-    "id": "com.prank.sirenscarychat.headvideocall",
+    "id": "app.santagame.greetingcallfromsanta",
     "is_exists": true,
     "is_show_more": true,
     "is_show_ads": true,
