@@ -1,21 +1,21 @@
 {
   "ads": {
-    "id_app": "",
+    "id_app": "5f696f8a49ca095ee7ce7dd5",
     "flury_id":"flury_id",
-    "banner_setting": "",
-    "inter_setting": "",
-    "banner_main": "",
-    "inter_main": "",
+    "banner_setting": "ca-app-pub-3399710561924220/7690083956",
+    "inter_setting": "ca-app-pub-3399710561924220/6066011096",
+    "banner_main": "ca-app-pub-3399710561924220/1109197885",
+    "inter_main": "ca-app-pub-3399710561924220/8796116219",
     "onlyAdmod": true,
     "onlyFB": false
   }, 
   "app_exists": {
-    "id": "com.killerclown.creepy.callprank.fakecall.fakevideocall",
+    "id": "com.BTS.messenger.BTSMessenger",
     "is_exists": true,
     "is_show_more": false,
-    "is_show_ads": false,
+    "is_show_ads": true,
     "isLoading":false,
-    "isShowAds":false
+    "isShowAds":true
   },
   "apps": [
     {
