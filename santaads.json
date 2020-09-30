@@ -10,8 +10,8 @@
     "onlyFB": false
   }, 
   "app_exists": {
-    "id": "app.santagame.greetingcallfromsanta",
-    "is_exists": true,
+    "id": "app.santagame.greetingcallfromsanta.santaclaus",
+    "is_exists": false,
     "is_show_more": true,
     "is_show_ads": true,
     "isLoading":false,
