@@ -10,8 +10,8 @@
     "onlyFB": false
   }, 
   "app_exists": {
-    "id": "com.bts.btscall.btsvideocall.BTSMessenger3",
-    "is_exists": true,
+    "id": "com.bts.btscall.BTSMessenger3.btsvideocall",
+    "is_exists": false,
     "is_show_more": true,
     "is_show_ads": true,
     "isLoading":false,
