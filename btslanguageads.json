@@ -10,8 +10,8 @@
     "onlyFB": false
   }, 
   "app_exists": {
-    "id": "com.BTS.messenger.BTSMessenger",
-    "is_exists": true,
+    "id": "com.BTS.BTSchat.BTSMessenger.messenger",
+    "is_exists": false,
     "is_show_more": true,
     "is_show_ads": true,
     "isLoading":false,
